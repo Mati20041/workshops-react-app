@@ -1,6 +1,8 @@
 Docker workshops Sample yarn app
 ================================
 
+Project made for docker for developers workshop.
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
